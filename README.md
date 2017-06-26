@@ -41,6 +41,7 @@
 현재 진행중인 포지션 별 자세한 공고는 아래 링크를 참고해주세요.
 
 - [[신입/경력] **PHP Developer** ](jobs/php-developer.md)
+- [[신입/경력] **Web Publisher(Designer)** ](jobs/web-publisher.md)
 - ~~[경력] Python Developer~~
 - ~~[경력] Backend Developer~~
 
